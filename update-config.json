@@ -1,1 +1,14 @@
-
+{
+  "AppVersion": "1.0.26",
+  "ReleaseNotes": "📢 Novas funcionalidades!\n• Melhor performance\n• Novos servidores",
+  "ForceUpdate": false,
+  "LinkUpdate": "https://github.com/seu-usuario/seu-app/releases",
+  
+  "DialogConfig": {
+    "updateTitle": "📢 Atualização Necessária",
+    "updateMessage": "Nova versão disponível!\n\nNovidades:\n[RELEASE_NOTES]\n\nAtualize para continuar usando.",
+    "infoButton": "Entendi",
+    "updateButton": "Atualizar Agora",
+    "exitButton": "Sair"
+  }
+}
