@@ -1,15 +1,15 @@
 {
-  "JsonVersion": "1.0.1",
+  "JsonVersion": "1.0.2",
   "Messages": [
     {
       "MessageID": 1,
-      "Title": "📢 2025 - 2026!",
+      "Title": "📢 PAUSA IS BEST VPN",
       "Message": "Novos servidores adicionados!\n\n• Melhor performance\n• Mais países disponíveis",
       "MessageType": "happy",
       "Active": true
     }
   ],
   "DialogConfig": {
-    "infoButton": "Entendi"
+    "infoButton": "Entendi admin"
   }
 }
