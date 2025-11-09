@@ -1,22 +1,15 @@
 {
+  "JsonVersion": "1.0.1",
   "Messages": [
     {
-      "MessageID": 3,
-      "MessageVersion": "2024-01-15-v2",
-      "Title": "📢 Nova Funcionalidade!",
-      "Message": "Agora temos suporte para novos servidores!\n\n• Melhor performance\n• Mais estabilidade\n• Novos países disponíveis",
+      "MessageID": 1,
+      "Title": "📢 Nova Atualização!",
+      "Message": "Novos servidores adicionados!\n\n• Melhor performance\n• Mais países disponíveis",
       "MessageType": "info",
-      "ShowOnce": true,
-      "Active": true
-    },
-    {
-      "MessageID": 2,
-      "MessageVersion": "2024-01-10-v1", 
-      "Title": "⚠️ Manutenção Programada",
-      "Message": "Faremos uma manutenção no sábado das 02:00 às 04:00.\n\nO serviço pode ficar instável durante este período.",
-      "MessageType": "warning",
-      "ShowOnce": true,
       "Active": true
     }
-  ]
+  ],
+  "DialogConfig": {
+    "infoButton": "Entendi"
+  }
 }
