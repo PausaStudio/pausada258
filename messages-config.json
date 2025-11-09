@@ -1,11 +1,11 @@
 {
-  "JsonVersion": "1.0.1",
+  "JsonVersion": "1.0.2",
   "Messages": [
     {
       "MessageID": 1,
       "Title": "📢 Nova Atualização!",
       "Message": "Novos servidores adicionados!\n\n• Melhor performance\n• Mais países disponíveis",
-      "MessageType": "info",
+      "MessageType": "happy",
       "Active": true
     }
   ],
