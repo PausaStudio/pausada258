@@ -1,11 +1,11 @@
 {
-  "JsonVersion": "1.0.4",
+  "JsonVersion": "1.0.5",
   "Messages": [
     {
       "MessageID": 1,
-      "Title": "📢 PAUSA IS BEST VPN",
-      "Message": "Novos servidores adicionados!\n\n• Melhor performance\n• Mais países disponíveis",
-      "MessageType": "happy",
+  "Title": "📢 PAUSA IS BEST VPN",
+  "Message": "Novo servidor de Moçambique disponível!\n\n• Velocidade 200mb - 500mb\n• UDP Hysteria\n• Ilimitado\n• MyMuze\n• WFTT"
+      "MessageType": "success",
       "Active": true
     }
   ],
