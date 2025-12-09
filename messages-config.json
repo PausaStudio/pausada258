@@ -1,10 +1,10 @@
 {
-  "JsonVersion": "1.0.7",
+  "JsonVersion": "1.0.8",
   "Messages": [
     {
       "MessageID": 1,
-  "Title": "📢 PAUSA IS BEST VPN",
-  "Message": "🌍 Novos servidores disponíveis!\n\n🇲🇿 **Moçambique**\n• 200MB - 500MB\n• UDP Hysteria\n• Ilimitado\n• MyMuze\n• WFTT\n\n🇲🇦 **Marrocos (INWI / IAM)**\n• Alta performance\n• Modos Websocket + Proxy\n\n🇬🇭 **Gana**\n• Boost de velocidade\n• Baixo consumo\n\n🇮🇳 **Jio Índia**\n• Premium SSL\n• Ultra rápido\n\n🌐 **SlowDNS Global**\n• Conexão universal\n• Mais estável\n\n⚡ **UDP Hysteria Global**\n• Ping baixo\n• Velocidade máxima"
+      "Title": "update app for use",
+      "Message": "Jio 4G fixed 🏆\nInwi 6 fixed 🔥\norange 0DH 🟢\neSIM 🔥 \nudp hysteria 🟢\nslowdns 🏆",
       "MessageType": "success",
       "Active": true
     }
