@@ -1,15 +1,15 @@
 {
-  "JsonVersion": "1.0.9",
+  "JsonVersion": "1.0.10",
   "Messages": [
     {
       "MessageID": 1,
-      "Title": "Atualize o app para usar\nUpdate the app to use",
-      "Message": "🇵🇹 Português:\nJio 4G corrigido 🏆\nInwi 6 corrigido 🔥\nOrange 0DH 🟢\neSIM 🔥\nUDP Hysteria 🟢\nSlowDNS 🏆\n\n🇬🇧 English:\nJio 4G fixed 🏆\nInwi 6 fixed 🔥\nOrange 0DH 🟢\neSIM 🔥\nUDP Hysteria 🟢\nSlowDNS 🏆",
+      "Title": "update app for use",
+      "Message": "🇵🇹 Português:\nSeu sinal ou rede está com problema?\nConte pra gente qual rede você usa e mande seu feedback para:\n📧 moztunnelvpn@gmail.com\n\n🇬🇧 English:\nIs your signal or network having issues?\nLet us know which network you use and send your feedback to:\n📧 moztunnelvpn@gmail.com",
       "MessageType": "natal",
       "Active": true
     }
   ],
   "DialogConfig": {
-    "infoButton": "Entendi / Got it"
+    "infoButton": "Entendi admin"
   }
 }
