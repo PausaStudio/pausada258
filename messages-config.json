@@ -1,15 +1,15 @@
 {
-  "JsonVersion": "1.0.8",
+  "JsonVersion": "1.0.9",
   "Messages": [
     {
       "MessageID": 1,
-      "Title": "update app for use",
-      "Message": "Jio 4G fixed 🏆\nInwi 6 fixed 🔥\norange 0DH 🟢\neSIM 🔥 \nudp hysteria 🟢\nslowdns 🏆",
-      "MessageType": "success",
+      "Title": "Atualize o app para usar\nUpdate the app to use",
+      "Message": "🇵🇹 Português:\nJio 4G corrigido 🏆\nInwi 6 corrigido 🔥\nOrange 0DH 🟢\neSIM 🔥\nUDP Hysteria 🟢\nSlowDNS 🏆\n\n🇬🇧 English:\nJio 4G fixed 🏆\nInwi 6 fixed 🔥\nOrange 0DH 🟢\neSIM 🔥\nUDP Hysteria 🟢\nSlowDNS 🏆",
+      "MessageType": "natal",
       "Active": true
     }
   ],
   "DialogConfig": {
-    "infoButton": "Entendi admin"
+    "infoButton": "Entendi / Got it"
   }
 }
