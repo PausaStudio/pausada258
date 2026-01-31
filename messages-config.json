@@ -1,15 +1,15 @@
 {
-  "JsonVersion": "1.0.10",
+  "JsonVersion": "1.0.11",
   "Messages": [
     {
       "MessageID": 1,
-      "Title": "update app for use",
-      "Message": "🇵🇹 Português:\nSeu sinal ou rede está com problema?\nConte pra gente qual rede você usa e mande seu feedback para:\n📧 moztunnelvpn@gmail.com\n\n🇬🇧 English:\nIs your signal or network having issues?\nLet us know which network you use and send your feedback to:\n📧 moztunnelvpn@gmail.com",
-      "MessageType": "natal",
+      "Title": "Vodacom Moçambique",
+      "Message": "Atualize o aplicativo para aproveitar servidores ilimitados em alta velocidade.\n\n⚠️ Modo avião é obrigatório\n\nPassos para conectar:\n1️⃣ Ligue a VPN\n2️⃣ Ative o modo avião por 15 segundos\n3️⃣ Desative o modo avião e aguarde a VPN reconectar\n4️⃣ Repita os passos até a conexão ser concluída\n\n✅ Internet ilimitada para todos",
+      "MessageType": "info",
       "Active": true
     }
   ],
   "DialogConfig": {
-    "infoButton": "Entendi admin"
+    "infoButton": "Entendi"
   }
 }
