@@ -1,10 +1,10 @@
 {
-  "JsonVersion": "1.0.11",
+  "JsonVersion": "1.0.12",
   "Messages": [
     {
       "MessageID": 1,
       "Title": "Vodacom Moçambique",
-      "Message": "Atualize o aplicativo para aproveitar servidores ilimitados em alta velocidade.\n\n⚠️ Modo avião é obrigatório\n\nPassos para conectar:\n1️⃣ Ligue a VPN\n2️⃣ Ative o modo avião por 15 segundos\n3️⃣ Desative o modo avião e aguarde a VPN reconectar\n4️⃣ Repita os passos até a conexão ser concluída\n\n✅ Internet ilimitada para todos",
+      "Message": "Olá, o seu servidor não está disponível no momento.\nInforme-nos para que possamos ajudar a adicionar um servidor melhor para você novamente.\n📧 moztunnelvpn@gmail.com\n\nHello, your server is currently unavailable.\nPlease inform us so we can help add a better server for you again.\n📧 moztunnelvpn@gmail.com",
       "MessageType": "info",
       "Active": true
     }
