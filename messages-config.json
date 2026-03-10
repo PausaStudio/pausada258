@@ -1,15 +1,15 @@
 {
-  "JsonVersion": "1.0.12",
+  "JsonVersion": "1.0.13",
   "Messages": [
     {
       "MessageID": 1,
-      "Title": "Vodacom Moçambique",
-      "Message": "Olá, o seu servidor não está disponível no momento.\nInforme-nos para que possamos ajudar a adicionar um servidor melhor para você novamente.\n📧 moztunnelvpn@gmail.com\n\nHello, your server is currently unavailable.\nPlease inform us so we can help add a better server for you again.\n📧 moztunnelvpn@gmail.com",
+      "Title": "Atualização Disponível",
+      "Message": "Há uma nova atualização disponível do aplicativo.\n\nAtualize o aplicativo para o melhor funcionamento dos servidores e para garantir a melhor experiência.\n\n🔗 Atualizar agora:\nhttps://play.google.com/store/apps/details?id=com.pausatotal.mlight&hl=pt",
       "MessageType": "info",
       "Active": true
     }
   ],
   "DialogConfig": {
-    "infoButton": "Entendi"
+    "infoButton": "Atualizar"
   }
 }
