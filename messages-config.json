@@ -1,15 +1,22 @@
 {
-  "JsonVersion": "1.0.14",
+  "JsonVersion": "1.0.15",
   "Messages": [
     {
       "MessageID": 1,
-      "Title": "Atualização Disponível",
-      "Message": "Há uma nova atualização disponível do aplicativo.\n\nAtualize o aplicativo para o melhor funcionamento dos servidores e para garantir a melhor experiência.\n\n🔗 Atualizar agora:\nhttps://play.google.com/store/apps/details?id=com.pausatotal.mlight&hl=pt",
+      "Title": "🇲🇿 Novos servidores disponíveis",
+      "Message": "Vodacom Unlimited New 🇲🇿 já está disponível.\n\nEm redes 3G ou H+, se a conexão falhar, desligue e ligue os dados móveis para reconectar.\n\nConecte-se sem interrupções conosco.",
       "MessageType": "info",
       "Active": true
     }
   ],
   "DialogConfig": {
-    "infoButton": "Atualizar"
-  }
+    "infoButton": "OK"
+  },
+  "Servers": [
+    {
+      "Name": "Vodacom Unlimited New 🇲🇿",
+      "Flag": "mz",
+      "MyServer": "Em redes 3G ou H+, desligue e ligue os dados móveis se não conectar."
+    }
+  ]
 }
